@@ -1,7 +1,7 @@
 # EMMIVox-BENCHMARK
 Data to reproduce the EMMIVox model refinement benchmark described in:
 
-S. Hoff, E. Thomasen, K. Lindorff-Larsen, M. Bonomi. Accurate model and ensemble refinement using cryo-electron microscopy maps and Bayesian inference.
+S. Hoff, F. E. Thomasen, K. Lindorff-Larsen, M. Bonomi. Accurate model and ensemble refinement using cryo-electron microscopy maps and Bayesian inference.
 bioRxiv 2023 doi: [add ref]().
 
 Details about the systems used in our benchmark are
