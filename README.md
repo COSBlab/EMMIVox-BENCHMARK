@@ -16,6 +16,15 @@ reported in the table below. Instructions to install [GROMACS](https://www.groma
  | 08  | 7nqk  | 12528  | 3.50  | 781  | 2  | 0  | 0  | 0  | 39,764  | 328  | 222  | 175,791 |
  | 09  | 6yeg  | 10792  | 4.00  | 2064  | 12  | 0  | 0  | 0  | 60,592  | 0  | 496  | 212,980 |
 
+**Model validation**
+
+To validate the deposited PDBs and the EMMIVox single-structure model using the metrics described in the manuscript, please:
+
+- download the analysis scripts [here](https://github.com/maxbonomi/EMMIVox);
+- download the PDB and cryo-EM maps using the script `get_PDB_MAP.sh`;
+- run the validation of the deposited PDBs with `validate_PDB.sh`;
+- run the validation of the EMMIVox models with `validate_EMMIVox.sh`. 
+
 **Contact**
 
 For any technical questions, please write to mbonomi_at_pasteur.fr.
