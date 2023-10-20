@@ -2,7 +2,7 @@
 Data to reproduce the EMMIVox model refinement benchmark described in:
 
 S. Hoff, F. E. Thomasen, K. Lindorff-Larsen, M. Bonomi. Accurate model and ensemble refinement using cryo-electron microscopy maps and Bayesian inference.
-bioRxiv 2023 doi: [add ref]().
+bioRxiv 2023 [doi: 10.1101/2023.10.18.562710](https://www.biorxiv.org/content/10.1101/2023.10.18.562710v1).
 
 Details about the systems used in our benchmark are
 reported in the table below. Instructions to install [GROMACS](https://www.gromacs.org) and [PLUMED](https://www.plumed.org) as well as analysis scripts and complete tutorials can be found [here](https://github.com/maxbonomi/EMMIVox).
