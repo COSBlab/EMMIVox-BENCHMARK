@@ -1,4 +1,4 @@
-# validation scripts (available here https://github.com/maxbonomi/EMMIVox/)
+# validation scripts (available here https://github.com/COSBlab/EMMIVox)
 # set to correct location
 PHENIX=/c7/home/mbonomi/build/EMMIVox/tutorials/1-refinement/5-Analysis/do_PHENIX
 CCMASK=/c7/home/mbonomi/build/EMMIVox/scripts/cryo-EM_validate.py

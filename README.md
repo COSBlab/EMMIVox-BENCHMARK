@@ -5,7 +5,7 @@ S. E. Hoff, F. E. Thomasen, K. Lindorff-Larsen, M. Bonomi. Accurate model and en
 bioRxiv 2023 [doi: 10.1101/2023.10.18.562710](https://www.biorxiv.org/content/10.1101/2023.10.18.562710v1).
 
 Details about the systems used in our benchmark are
-reported in the table below. Instructions to install [GROMACS](https://www.gromacs.org) and [PLUMED](https://www.plumed.org) as well as analysis scripts and complete tutorials can be found [here](https://github.com/maxbonomi/EMMIVox).
+reported in the table below. Instructions to install [GROMACS](https://www.gromacs.org) and [PLUMED](https://www.plumed.org) as well as analysis scripts and complete tutorials can be found [here](https://github.com/COSBlab/EMMIVox).
 
 **Details of the benchmark systems**
 
@@ -25,7 +25,7 @@ reported in the table below. Instructions to install [GROMACS](https://www.groma
 
 To validate the deposited PDBs and the EMMIVox single-structure model using the metrics described in the manuscript, please:
 
-- download the analysis scripts [here](https://github.com/maxbonomi/EMMIVox);
+- download the analysis scripts [here](https://github.com/COSBlab/EMMIVox);
 - download the PDB structures and cryo-EM maps using the script `get_PDB_MAP.sh`;
 - run the validation of the deposited PDBs with `validate_PDB.sh`;
 - run the validation of the EMMIVox models with `validate_EMMIVox.sh`. 
